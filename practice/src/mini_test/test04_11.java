@@ -1,5 +1,5 @@
 package mini_test;
-public class test4_11 {
+public class test04_11 {
     public static void main(String[] args) {
         // 1. double型の配列変数を宣言
         double[] randomNumbers;

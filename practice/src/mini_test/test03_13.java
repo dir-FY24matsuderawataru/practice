@@ -2,7 +2,7 @@ package mini_test;
 
 import java.util.Scanner;
 
-public class test3_13 {
+public class test03_13 {
     public static void main(String[] args) {
         // スキャナーを使ってユーザーからの整数入力を読み取る
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package mini_test;
 
-public class test4_3 {
+public class test04_03 {
     public static void main(String[] args) {
         // 1. double型の配列変数を宣言し、要素数が10の配列を初期化
         double[] randomNumbers = new double[10];

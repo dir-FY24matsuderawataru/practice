@@ -1,5 +1,5 @@
 package mini_test;
-public class test4_1 {
+public class test04_01 {
     public static void main(String[] args) {
         // 整数の配列変数を宣言し、要素数が5の配列を初期化してすべての要素をゼロに設定
         int[] myArray = {0, 0, 0, 0, 0};

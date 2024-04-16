@@ -1,6 +1,6 @@
 package mini_test;
 
-public class test4_8 {
+public class test04_08 {
     public static void main(String[] args) {
         // 1. 整数の配列変数を宣言
         int[] fibonacci;

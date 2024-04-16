@@ -1,6 +1,6 @@
 package mini_test;
 
-public class test4_15 {
+public class test04_15 {
     public static void main(String[] args) {
         // 整数の配列を定義
         int[] numbers = {10, 20, 30, 40, 50, 30, 60};

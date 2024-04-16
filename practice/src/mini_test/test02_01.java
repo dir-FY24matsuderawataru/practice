@@ -1,7 +1,7 @@
 package mini_test;
     import java.util.Scanner;
 
-    public class test2_1 {
+    public class test02_01 {
         public static void main(String[] args) {
             // Scannerを作成
             Scanner scanner = new Scanner(System.in);

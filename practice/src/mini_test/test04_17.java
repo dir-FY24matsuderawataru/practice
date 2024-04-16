@@ -2,7 +2,7 @@ package mini_test;
 
 import java.util.Arrays;
 
-public class test4_17 {
+public class test04_17 {
     public static void main(String[] args) {
         // 整数の配列を定義
         int[] originalArray = {1, 2, 2, 3, 4, 4, 5, 6, 6, 7};

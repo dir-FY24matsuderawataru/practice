@@ -1,6 +1,6 @@
 package mini_test;
 
-public class test4_14 {
+public class test04_14 {
     public static void main(String[] args) {
         // 整数の配列を定義
         int[] numbers = {23, 45, 12, 67, 5, 88, 34};
